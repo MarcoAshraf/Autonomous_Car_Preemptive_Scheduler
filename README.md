@@ -53,9 +53,7 @@ The project is organized into different layers:
 - GPIO, GPTM, SysTick, ADC, and PWM drivers
 
 
-Please click the link to make sure everything works perfectly and passes all tests without any problems.
-
-https://drive.google.com/drive/folders/151C40D_TIJ8sXVjjVSB8OwF8aiGkILuE?usp=sharing
+This is the final result: https://drive.google.com/drive/folders/151C40D_TIJ8sXVjjVSB8OwF8aiGkILuE?usp=sharing
 
 ## Contribution
 
